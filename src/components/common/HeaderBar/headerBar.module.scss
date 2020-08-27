@@ -1,0 +1,13 @@
+@import "../../../styles/variables";
+
+.fixed-top {
+  top: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+}
+
+.header-bar {
+  height: 100px;
+  background-color: lightseagreen;
+}

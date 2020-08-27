@@ -1,0 +1,79 @@
+/******************************
+ ******************************
+ COLORS
+ ******************************
+ ******************************/
+$black: #1d1d1d;
+$blue: #00b1cf;
+$blue2: #36a7d9;
+$blue3: #00b6d4;
+$blue-darker: #0077b9;
+$border-color: #ddd;
+$gray-blue-lite: #c4cbd2;
+$border-color-normal: #ccc;
+$border-dark: #1e2a31;
+$border-darker: #aaa;
+$btn-default-border: #e6e6e6;
+$brand-blue: #0077b9;
+$brand-blue2: #006aa7;
+$brand-danger: #fc3955;
+$brand-info: #3fc4ff;
+$brand-primary: #ff7113;
+$brand-success: #33d8a5;
+$brand-warning: #f8904b;
+$danger-dark: #cf3d3d;
+$red-alert: #ff0000;
+$facebook-color: #4861a6;
+$gray: #404040;
+$gray-dark: #7e7e7e;
+$gray-darker: #333333;
+$gray-dark1: #8a9a9b;
+$gray-lighter: #979797;
+$gray-lightest1: #f2f2f2;
+$gray-lightest2: #f9f9f9;
+$gray-lightest3: #efefef;
+$gray-lightest4: #d4d4d4;
+$gray-lightest5: #eeeeee;
+$gray-lightest6: #e5e5e5;
+$gray-base: #cacaca;
+$gray-light-blue: #858d93;
+$gray2: #555;
+$green: #00a389;
+$linkedin-color: #0077b5;
+$navy-blue-darkest: #0c1920;
+$primary-hover: #f8904b;
+$sky-blue-lighter: #757d84;
+$sky-blue-light: #eaf2f5;
+$sky-blue-light1: #f0f6f8;
+$sky-blue-light2: #e8f8ff;
+$twitter-color: #55acee;
+$yellow: #e5ac38;
+$white: #ffffff;
+$light-orange: #f09105;
+
+/******************************
+  ******************************
+  SCREEN SIZES
+  ******************************
+  ******************************/
+$screen-sm-min: 768px;
+$screen-sm-max: 767px;
+$screen-md-min: 992px;
+$screen-md-max: 991px;
+$screen-lg-min: 1200px;
+$screen-lg-max: 1199px;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: $screen-sm-min,
+  md: $screen-md-min,
+  lg: $screen-lg-min,
+);
+/******************************
+  ******************************
+  FONT
+  ******************************
+  ******************************/
+$base-font-family: "Lato", Arial, Helvetica, sans-serif;
+$base-font-size: 1.6rem;
+$base-line-height: 1.4;
